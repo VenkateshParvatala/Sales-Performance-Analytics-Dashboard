@@ -10,7 +10,7 @@ The objective was to transform raw business data into actionable insights that s
 ---
 ## Dashboard Preview
 
-![Dashboard Preview](Sale Preview Image.png)
+![Dashboard Preview](Sale%20Preview%20Image.png)
 ## Business Problem
 
 Business stakeholders needed a centralized dashboard to:
